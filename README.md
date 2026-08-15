@@ -4,7 +4,7 @@ Data & AI practitioner with a background in environmental engineering, currently
 
 I like turning messy, real-world data into things people can actually use, from KPI dashboards and automated pipelines to deep learning models.
 
-🌱 **Right now I'm working on** my MSc dissertation: *benchmarking deep learning methods for individual tree segmentation from LiDAR point clouds* — training, tuning and evaluating neural networks on large 3D datasets in Python.
+🌱 **Right now I'm working on** my MSc dissertation: *benchmarking deep learning methods for individual tree segmentation from LiDAR point clouds*  training, tuning and evaluating neural networks on large 3D datasets in Python.
 
 🔭 **Interests:** applied machine learning, generative & agentic AI, geospatial data, and analytics that support real business decisions.
 
