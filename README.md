@@ -15,9 +15,9 @@ I like turning messy, real-world data into things people can actually use, from 
 - **Platforms & Tools:** Git / GitHub, Salesforce, ArcGIS.
 
 ---
+🎓 BEng in Environmental Engineering
 
-- 🎓 BEng in Environmental Engineering
-- 💼 Experience across data operations, fintech and CRM consulting
+💼 Experience across data operations, fintech and CRM consulting
 
 ---
 LinkedIn: [laura-v-sierra](https://www.linkedin.com/in/laura-v-sierra)
